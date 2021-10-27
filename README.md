@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://ibb.co/wQ4GK21"><img src="https://i.ibb.co/HPqwr9Q/whatsapp-botto-void-init.png" alt="whatsapp-botto-void-init" border="0"></a>
 
-# **Kaoi : Next Level Void WhatsApp BOTTO**
+# **DkHitman : Next Level DKHITMAN WhatsApp BOTTO**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi/badge)](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi)
 
@@ -39,7 +39,7 @@ Use any one of the above to deploy
 ## 🍥 Features of the Repo
 
 -   To view all features, click
-    here➡️[Kaoi_featuresList.md](https://github.com/PrajjwalDatir/Kaoi/blob/main/Features.md)
+    here➡️[DKhitman_featuresList.md](https://github.com/PrajjwalDatir/Kaoi/blob/main/Features.md)
 
 ## 💪 Contribution
 
