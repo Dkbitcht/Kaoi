@@ -50,8 +50,8 @@ Use any one of the above to deploy
 
 ## 🤝 Contributors
 
-<a href="https://github.com/PrajjwalDatir/Kaoi/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=PrajjwalDatir/Kaoi" />
+<a href="https://github.com/PrajjwalDatir/DK/graphs/contributors">
+  <DK src="https://contrib.rocks/image?repo=PrajjwalDatir/Kaoi" />
 </a>
 
 ### 🟢 WhatsApp Group
