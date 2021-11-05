@@ -3,7 +3,7 @@
 
 # **DkHitman : Next Level DKHITMAN WhatsApp BOTTO**
 
-[![CodeFactor](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi/badge)](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi)
+[![CodeFactor](https://www.codefactor.io/repository/github/prajjwaldatir/DK/badge)](https://www.codefactor.io/repository/github/prajjwaldatir/DK)
 
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/I4m8zLPwTme9II9aZWRZJ1) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
@@ -11,7 +11,7 @@
 
 Button : If you are deploying normally
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/PrajjwalDatir/Kaoi/blob/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/PrajjwalDatir/Dk/blob/main)
 
 Button : If you are deploying from a fork
 
@@ -39,7 +39,7 @@ Use any one of the above to deploy
 ## 🍥 Features of the Repo
 
 -   To view all features, click
-    here➡️[DKhitman_featuresList.md](https://github.com/PrajjwalDatir/Kaoi/blob/main/Features.md)
+    here➡️[DKhitman_featuresList.md](https://github.com/PrajjwalDatir/DK/blob/main/Features.md)
 
 ## 💪 Contribution
 
