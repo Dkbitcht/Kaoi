@@ -1,7 +1,7 @@
-<div align="center">
+³<div align="center">
 <a href="https://ibb.co/wQ4GK21"><img src="https://i.ibb.co/HPqwr9Q/My-Base-MD-init.png" alt="My-Base-MD-init" border="0"></a>
 
-## -Nocturno : Test base fork by Nocturno**
+## -Nocturno : Test base fork by Nocturno :v
 
 [![CodeFactor](https://www.codefactor.io/repository/github/prajjwaldatir/DK/badge)](https://www.codefactor.io/repository/github/prajjwaldatir/DK)
 
@@ -60,7 +60,7 @@ Use any one of the above to deploy
 
 ### 🟢 WhatsApp Group
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlGNyRC9TMI07r1Fvt9fTU)
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EkjKlTsbtoOIfeWvjKYs5t)
 
 ## 📄 License
 
